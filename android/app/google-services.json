@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "572165467907",
+    "project_id": "larose-3a5c5",
+    "storage_bucket": "larose-3a5c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572165467907:android:183f82fdb0150bd74f4336",
+        "android_client_info": {
+          "package_name": "com.crystalcodekw.laroseuser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgruqb8isRQ_2sQsZYcOpqF_FTjk7CfrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
